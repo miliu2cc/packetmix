@@ -230,19 +230,6 @@
       "revision": "e93892573d202bf45cc0ce2f611ea590f3ed7668",
       "url": "https://api.github.com/repos/abenz1267/walker/tarball/v0.12.39",
       "hash": "sha256-HLQ2hYZhXcrA9V0kshV1GxxgI1CGXtTeI7dKelrIz6w="
-    },
-    "zen-browser-flake": {
-      "type": "Git",
-      "repository": {
-        "type": "GitHub",
-        "owner": "0xc000022070",
-        "repo": "zen-browser-flake"
-      },
-      "branch": "main",
-      "submodules": false,
-      "revision": "f19d2b6b18d4a2e8bf2d6a9f69c934d6726360c4",
-      "url": "https://github.com/0xc000022070/zen-browser-flake/archive/f19d2b6b18d4a2e8bf2d6a9f69c934d6726360c4.tar.gz",
-      "hash": "sha256-oTIVrw7Cy2McAVqE7GCot5Fb8Wh4JBsUDKMX8u3DFlU="
     }
   },
   "version": 6
